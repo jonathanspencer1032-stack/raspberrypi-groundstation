@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/adafruit_lora_hat.dir/link.d CMakeFiles/adafruit_lora_hat.dir/adafruit_lora_hat.c.o -o adafruit_lora_hat  -lgpiod

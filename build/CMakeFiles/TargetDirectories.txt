@@ -1,0 +1,3 @@
+/home/radiopi/groundstation/build/CMakeFiles/adafruit_lora_hat.dir
+/home/radiopi/groundstation/build/CMakeFiles/edit_cache.dir
+/home/radiopi/groundstation/build/CMakeFiles/rebuild_cache.dir
